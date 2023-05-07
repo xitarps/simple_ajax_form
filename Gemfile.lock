@@ -1,7 +1,7 @@
 PATH
   remote: .
   specs:
-    simple_ajax_form (0.1.25)
+    simple_ajax_form (0.1.26)
       activesupport (~> 7.0, >= 7.0.4.3)
 
 GEM

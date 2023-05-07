@@ -26,7 +26,7 @@ Inside of your <mark>.erb</mark> file:
 
 2 - Insert the request helper right after the form_with tag:
 ```
-<%= form_with ... ,class: '' do |f| >
+<%= form_with ... ,class: 'ajaxForm' do |f| >
 <% end >
 
 <%= SimpleAjaxForm::RequestHelper.enable_class_use_on_forms_html %>
