@@ -14,6 +14,11 @@ If bundler is not being used to manage dependencies, install the gem by executin
 
     $ gem install simple_ajax_form
 
+If you prefer to put by yourself on Gemfile and run command bundle install:
+```
+  gem 'simple_ajax_form', '~> 0.1.26'
+```
+
 ## Usage
 Inside of your <mark>.erb</mark> file:
 
